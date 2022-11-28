@@ -1,0 +1,20 @@
+{
+    "name": "jausions/tcpdf-test-reference",
+    "description": "A list of reference documents for Tecnick.com's TCPDF test suite.",
+    "type": "library",
+    "keywords": [
+        "testing",
+        "TCPDF"
+    ],
+    "licence": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Philippe Jausions",
+            "email": "Philippe.Jausions@11abacus.com",
+            "role": "author"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/jausions/TCPDF-test-reference/"
+    }
+}
